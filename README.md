@@ -9,7 +9,7 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](iso.jpg)
-![Example](iso-bottom.jpg)
-![Example](bottom.jpg)
+<img src="iso.jpg" width="500" align="center"> 
+<img src="iso-bottom.jpg" width="500" align="center"> 
+<img src="bottom.jpg" width="500" align="center"> 
 
